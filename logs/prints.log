@@ -1,0 +1,1569 @@
+23:02:17.045 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the Submition the Register Form
+23:02:26.075 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Close the Browser
+18:17:17.111 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Launching Browser and enter the URL
+18:18:29.951 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Launching Browser and enter the URL
+18:31:13.027 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Launching Browser and enter the URL
+18:32:31.480 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Launching Browser and enter the URL
+18:32:33.378 [main] INFO  com.csagroup.config.BasePage - click action is started
+18:32:37.677 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+18:32:56.390 [main] INFO  com.csagroup.config.BasePage - click action is started
+18:38:02.188 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Launching Browser and enter the URL
+19:23:35.408 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Launching Browser and enter the URL
+19:23:38.125 [main] INFO  com.csagroup.config.BasePage - click action is started
+19:23:42.000 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+19:23:53.434 [main] INFO  com.csagroup.config.BasePage - click action is started
+19:23:57.040 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+20:51:10.618 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+20:51:14.720 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+20:51:14.721 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+20:51:18.370 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+20:51:18.371 [main] INFO  com.csagroup.config.BasePage - click action is started
+20:51:35.359 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+21:44:16.059 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Launching Browser and enter the URL
+21:44:23.413 [main] INFO  com.csagroup.config.BasePage - click action is started
+21:44:28.311 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+21:44:40.493 [main] INFO  com.csagroup.config.BasePage - click action is started
+21:44:44.236 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+00:19:22.226 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+00:19:26.327 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+00:19:26.327 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+00:19:29.969 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+00:19:29.969 [main] INFO  com.csagroup.config.BasePage - click action is started
+00:19:41.827 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+00:37:43.642 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+00:37:44.032 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+00:37:44.032 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+00:37:47.931 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+00:37:47.932 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+00:37:47.932 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+00:37:51.574 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+00:37:51.575 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+00:37:51.575 [main] INFO  com.csagroup.config.BasePage - click action is started
+00:38:04.552 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+00:38:04.552 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+00:38:55.772 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+00:38:55.874 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+00:38:55.874 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+00:38:59.974 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+00:38:59.975 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+00:38:59.975 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+00:39:03.588 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+00:39:03.588 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+00:39:03.588 [main] INFO  com.csagroup.config.BasePage - click action is started
+00:39:15.187 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+00:39:15.188 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+00:43:01.997 [TestNG-tests-1] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+00:43:02.037 [TestNG-tests-1] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+00:43:02.038 [TestNG-tests-1] INFO  com.csagroup.config.BasePage - enter data action is started
+00:43:05.723 [TestNG-tests-2] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+00:43:05.786 [TestNG-tests-2] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+00:43:05.787 [TestNG-tests-2] INFO  com.csagroup.config.BasePage - enter data action is started
+00:43:09.955 [TestNG-tests-2] INFO  com.csagroup.config.BasePage - enter data action is Completed
+00:43:09.955 [TestNG-tests-2] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+00:43:09.956 [TestNG-tests-2] INFO  com.csagroup.config.BasePage - enter data action is started
+00:43:10.295 [TestNG-tests-1] INFO  com.csagroup.config.BasePage - enter data action is Completed
+00:43:10.296 [TestNG-tests-1] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+00:43:10.296 [TestNG-tests-1] INFO  com.csagroup.config.BasePage - enter data action is started
+00:43:14.211 [TestNG-tests-2] INFO  com.csagroup.config.BasePage - enter data action is Completed
+00:43:14.211 [TestNG-tests-2] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+00:43:14.212 [TestNG-tests-2] INFO  com.csagroup.config.BasePage - click action is started
+00:43:14.399 [TestNG-tests-1] INFO  com.csagroup.config.BasePage - enter data action is Completed
+00:43:14.399 [TestNG-tests-1] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+00:43:14.399 [TestNG-tests-1] INFO  com.csagroup.config.BasePage - click action is started
+00:43:50.865 [TestNG-tests-2] INFO  com.csagroup.config.BasePage - click action is Completed
+00:43:50.865 [TestNG-tests-2] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+13:03:00.621 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+13:03:00.664 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+13:03:00.665 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+13:03:04.672 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+13:03:04.672 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+13:03:04.672 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+13:03:08.386 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+13:03:08.386 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+13:03:08.387 [main] INFO  com.csagroup.config.BasePage - click action is started
+13:03:20.838 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+13:03:20.839 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+13:07:54.035 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+13:07:54.111 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+13:07:54.111 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+13:07:58.100 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+13:07:58.100 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+13:07:58.100 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+13:08:01.834 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+13:08:01.834 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+13:08:01.834 [main] INFO  com.csagroup.config.BasePage - click action is started
+13:08:08.080 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+13:08:08.080 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+13:12:57.991 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+13:12:58.037 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+13:12:58.038 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+13:13:01.984 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+13:13:01.984 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+13:13:01.984 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+13:13:05.691 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+13:13:05.692 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+13:13:05.692 [main] INFO  com.csagroup.config.BasePage - click action is started
+13:13:18.944 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+13:13:18.945 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+13:22:31.153 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+13:22:31.713 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+13:22:31.713 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+13:22:35.948 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+13:22:35.948 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+13:22:35.949 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+13:22:39.675 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+13:22:39.675 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+13:22:39.675 [main] INFO  com.csagroup.config.BasePage - click action is started
+13:22:52.078 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+13:22:52.078 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+13:30:50.143 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+13:30:50.389 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+13:30:50.390 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+13:30:54.275 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+13:30:54.275 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+13:30:54.275 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+13:30:57.944 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+13:30:57.944 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+13:30:57.945 [main] INFO  com.csagroup.config.BasePage - click action is started
+13:31:11.927 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+13:31:11.928 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+13:42:37.485 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+13:42:37.714 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+13:42:37.715 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+13:42:41.629 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+13:42:41.629 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+13:42:41.630 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+13:42:45.286 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+13:42:45.286 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+13:42:45.287 [main] INFO  com.csagroup.config.BasePage - click action is started
+13:42:58.060 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+13:42:58.060 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+13:47:47.321 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+13:47:47.551 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+13:47:47.552 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+13:47:52.451 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+13:47:52.451 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+13:47:52.451 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+13:47:57.127 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+13:47:57.127 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+13:47:57.128 [main] INFO  com.csagroup.config.BasePage - click action is started
+13:48:12.655 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+13:48:12.656 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+13:51:20.089 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+13:51:20.131 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+13:51:20.132 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+13:51:25.019 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+13:51:25.019 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+13:51:25.019 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+13:51:29.747 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+13:51:29.747 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+13:51:29.747 [main] INFO  com.csagroup.config.BasePage - click action is started
+13:51:43.748 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+13:51:43.749 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+13:55:40.779 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+13:55:40.818 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+13:55:40.818 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+13:55:44.689 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+13:55:44.689 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+13:55:44.689 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+13:55:48.361 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+13:55:48.361 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+13:55:48.361 [main] INFO  com.csagroup.config.BasePage - click action is started
+13:56:00.861 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+13:56:00.861 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+14:02:17.828 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+14:02:17.870 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+14:02:17.871 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+14:02:21.752 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+14:02:21.752 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+14:02:21.752 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+14:02:25.423 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+14:02:25.423 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+14:02:25.424 [main] INFO  com.csagroup.config.BasePage - click action is started
+14:02:39.346 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+14:02:39.346 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+14:04:05.010 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+14:04:05.060 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+14:04:05.061 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+14:04:09.029 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+14:04:09.029 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+14:04:09.030 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+14:04:12.720 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+14:04:12.721 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+14:04:12.721 [main] INFO  com.csagroup.config.BasePage - click action is started
+14:04:21.514 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+14:04:21.515 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+14:31:00.801 [TestNG-tests-1] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+14:31:00.858 [TestNG-tests-1] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+14:31:00.858 [TestNG-tests-1] INFO  com.csagroup.config.BasePage - enter data action is started
+14:31:05.882 [TestNG-tests-1] INFO  com.csagroup.config.BasePage - enter data action is Completed
+14:31:05.882 [TestNG-tests-1] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+14:31:05.883 [TestNG-tests-1] INFO  com.csagroup.config.BasePage - enter data action is started
+14:31:10.613 [TestNG-tests-1] INFO  com.csagroup.config.BasePage - enter data action is Completed
+14:31:10.614 [TestNG-tests-1] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+14:31:10.614 [TestNG-tests-1] INFO  com.csagroup.config.BasePage - click action is started
+14:31:26.707 [TestNG-tests-1] INFO  com.csagroup.config.BasePage - click action is Completed
+14:31:26.707 [TestNG-tests-1] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+14:35:05.009 [TestNG-tests-1] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+14:35:05.069 [TestNG-tests-1] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+14:35:05.069 [TestNG-tests-1] INFO  com.csagroup.config.BasePage - enter data action is started
+14:35:09.919 [TestNG-tests-1] INFO  com.csagroup.config.BasePage - enter data action is Completed
+14:35:09.920 [TestNG-tests-1] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+14:35:09.920 [TestNG-tests-1] INFO  com.csagroup.config.BasePage - enter data action is started
+14:35:14.596 [TestNG-tests-1] INFO  com.csagroup.config.BasePage - enter data action is Completed
+14:35:14.596 [TestNG-tests-1] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+14:35:14.597 [TestNG-tests-1] INFO  com.csagroup.config.BasePage - click action is started
+14:35:28.484 [TestNG-tests-1] INFO  com.csagroup.config.BasePage - click action is Completed
+14:35:28.484 [TestNG-tests-1] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+14:44:34.434 [TestNG-tests-2] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+14:44:34.787 [TestNG-tests-2] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+14:44:34.788 [TestNG-tests-2] INFO  com.csagroup.config.BasePage - enter data action is started
+14:44:39.826 [TestNG-tests-2] INFO  com.csagroup.config.BasePage - enter data action is Completed
+14:44:39.826 [TestNG-tests-2] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+14:44:39.826 [TestNG-tests-2] INFO  com.csagroup.config.BasePage - enter data action is started
+14:44:44.500 [TestNG-tests-2] INFO  com.csagroup.config.BasePage - enter data action is Completed
+14:44:44.501 [TestNG-tests-2] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+14:44:44.501 [TestNG-tests-2] INFO  com.csagroup.config.BasePage - click action is started
+14:45:00.575 [TestNG-tests-2] INFO  com.csagroup.config.BasePage - click action is Completed
+14:45:00.575 [TestNG-tests-2] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+14:47:02.521 [TestNG-tests-1] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+14:47:02.569 [TestNG-tests-1] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+14:47:02.570 [TestNG-tests-1] INFO  com.csagroup.config.BasePage - enter data action is started
+14:47:07.561 [TestNG-tests-1] INFO  com.csagroup.config.BasePage - enter data action is Completed
+14:47:07.561 [TestNG-tests-1] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+14:47:07.562 [TestNG-tests-1] INFO  com.csagroup.config.BasePage - enter data action is started
+14:47:12.203 [TestNG-tests-1] INFO  com.csagroup.config.BasePage - enter data action is Completed
+14:47:12.203 [TestNG-tests-1] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+14:47:12.204 [TestNG-tests-1] INFO  com.csagroup.config.BasePage - click action is started
+14:47:25.580 [TestNG-tests-1] INFO  com.csagroup.config.BasePage - click action is Completed
+14:47:25.580 [TestNG-tests-1] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+14:49:01.225 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+14:49:01.266 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+14:49:01.266 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+14:49:06.180 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+14:49:06.180 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+14:49:06.181 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+14:49:10.913 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+14:49:10.913 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+14:49:10.913 [main] INFO  com.csagroup.config.BasePage - click action is started
+14:49:23.631 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+14:49:23.632 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+15:07:59.873 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+15:08:00.134 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+15:08:00.135 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+15:08:11.855 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+15:08:11.855 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+15:08:11.856 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+15:08:17.642 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+15:08:17.642 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+15:08:17.643 [main] INFO  com.csagroup.config.BasePage - click action is started
+15:08:23.378 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+15:08:23.378 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+15:14:49.462 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+15:14:49.721 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+15:14:49.722 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+15:14:59.121 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+15:14:59.121 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+15:14:59.121 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+15:15:04.928 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+15:15:04.928 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+15:15:04.929 [main] INFO  com.csagroup.config.BasePage - click action is started
+15:15:10.163 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+15:15:10.164 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+15:19:05.129 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+15:19:05.399 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+15:19:05.400 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+15:19:15.034 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+15:19:15.035 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+15:19:15.035 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+15:19:20.798 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+15:19:20.798 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+15:19:20.799 [main] INFO  com.csagroup.config.BasePage - click action is started
+15:19:25.974 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+15:19:25.975 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+15:32:32.777 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+15:32:32.819 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+15:32:32.819 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+15:32:37.805 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+15:32:37.806 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+15:32:37.806 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+15:32:42.561 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+15:32:42.561 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+15:32:42.562 [main] INFO  com.csagroup.config.BasePage - click action is started
+15:32:56.168 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+15:32:56.168 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+15:36:40.370 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+15:36:40.419 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+15:36:40.419 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+15:36:45.309 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+15:36:45.309 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+15:36:45.310 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+15:36:49.979 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+15:36:49.979 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+15:36:49.979 [main] INFO  com.csagroup.config.BasePage - click action is started
+15:37:03.127 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+15:37:03.128 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+15:37:39.035 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+15:37:39.280 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+15:37:39.280 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+15:37:49.973 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+15:37:49.973 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+15:37:49.974 [main] INFO  com.csagroup.config.BasePage - enter data action is started
+15:37:56.049 [main] INFO  com.csagroup.config.BasePage - enter data action is Completed
+15:37:56.050 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+15:37:56.051 [main] INFO  com.csagroup.config.BasePage - click action is started
+15:38:01.232 [main] INFO  com.csagroup.config.BasePage - click action is Completed
+15:38:01.232 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+11:36:13.965 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Launching Browser and enter the URL
+11:36:16.815 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+11:36:22.236 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+11:36:40.441 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+11:36:45.026 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+11:45:20.047 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Launching Browser and enter the URL
+11:45:22.589 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+11:45:27.986 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+11:45:46.738 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+11:45:51.414 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+12:52:30.620 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Launching Browser and enter the URL
+12:54:14.000 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Launching Browser and enter the URL
+12:54:17.369 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Search Products Page Loading
+12:54:17.370 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+12:54:22.816 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+12:54:22.817 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+12:54:27.996 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+12:54:28.060 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+12:54:33.841 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+12:54:33.881 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+12:54:33.881 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Select the Product from Search
+12:54:34.946 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Products Page Loading
+12:55:36.245 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Search Products Page Loading
+12:55:36.245 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+12:55:45.871 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+12:55:45.871 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+12:55:50.752 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+12:55:50.795 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+12:55:56.437 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+12:55:56.460 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+12:55:56.460 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Select the Product from Search
+12:55:57.586 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Products Page Loading
+13:03:18.067 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Launching Browser and enter the URL
+13:03:19.653 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Search Products Page Loading
+13:03:19.653 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+13:03:24.755 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+13:03:24.755 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+13:03:29.569 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+13:03:29.629 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+13:03:32.631 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+13:03:32.682 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+13:03:32.683 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Select the Product from Search
+13:03:33.693 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Products Page Loading
+13:09:18.440 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Launching Browser and enter the URL
+13:09:19.549 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Search Products Page Loading
+13:09:19.549 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+13:09:24.813 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+13:09:24.813 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+13:09:29.927 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+13:09:29.975 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+13:09:39.915 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+13:09:39.940 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+13:09:39.940 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Select the Product from Search
+13:09:40.950 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Products Page Loading
+13:09:40.951 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+13:12:33.200 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Launching Browser and enter the URL
+13:12:34.353 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Search Products Page Loading
+13:12:34.353 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+14:21:47.611 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Launching Browser and enter the URL
+14:21:48.932 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Search Products Page Loading
+14:21:48.932 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+14:21:53.897 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+14:21:53.898 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+14:21:59.285 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+14:21:59.344 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+14:22:08.415 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+14:22:08.443 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+14:22:08.444 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Select the Product from Search
+14:22:09.867 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Products Page Loading
+14:22:09.868 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+15:11:22.460 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Launching Browser and enter the URL
+15:11:23.837 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Search Products Page Loading
+15:11:23.837 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+15:11:29.143 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+15:11:29.143 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+15:11:34.259 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+15:11:34.319 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+15:11:41.654 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+15:11:41.677 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+15:11:41.678 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Select the Product from Search
+15:11:42.700 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Products Page Loading
+12:00:19.288 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Launching Browser and enter the URL
+12:00:22.435 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+12:00:32.531 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+12:00:32.531 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the Login
+12:00:32.532 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+12:00:43.017 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+12:00:43.017 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the Create Account
+12:00:48.022 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+12:00:52.798 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+12:00:53.741 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Close the Browser
+12:02:42.502 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Launching Browser and enter the URL
+12:02:45.605 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+12:02:55.721 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+12:02:55.721 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the Login
+12:02:55.722 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+12:03:07.281 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+12:03:07.281 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the Create Account
+12:03:12.291 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+12:03:16.988 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+12:03:18.099 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Title
+12:03:18.099 [main] INFO  com.csagroup.Actions.BasePage - enter data action is started
+12:03:22.685 [main] INFO  com.csagroup.Actions.BasePage - enter data action is clear
+12:03:22.931 [main] INFO  com.csagroup.Actions.BasePage - enter data action is Completed
+12:03:22.931 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the FirstName
+12:03:22.932 [main] INFO  com.csagroup.Actions.BasePage - enter data action is started
+12:03:27.517 [main] INFO  com.csagroup.Actions.BasePage - enter data action is clear
+12:03:27.667 [main] INFO  com.csagroup.Actions.BasePage - enter data action is Completed
+12:03:27.667 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the LastName
+12:03:27.667 [main] INFO  com.csagroup.Actions.BasePage - enter data action is started
+12:03:32.248 [main] INFO  com.csagroup.Actions.BasePage - enter data action is clear
+12:03:32.488 [main] INFO  com.csagroup.Actions.BasePage - enter data action is Completed
+12:03:32.488 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Phonenumber
+12:03:32.488 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+12:03:37.059 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+12:03:37.218 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Language
+12:03:37.232 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Scroll the Page
+12:03:37.232 [main] INFO  com.csagroup.Actions.BasePage - enter data action is started
+12:03:41.794 [main] INFO  com.csagroup.Actions.BasePage - enter data action is clear
+12:03:41.952 [main] INFO  com.csagroup.Actions.BasePage - enter data action is Completed
+12:03:41.952 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Company CompanyName
+12:03:41.953 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+12:03:46.643 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+12:03:46.809 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Industry
+12:03:46.809 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+12:03:51.496 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+12:03:51.681 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Market
+12:03:51.682 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+12:03:56.383 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+12:03:56.568 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Jon Function
+12:03:56.568 [main] INFO  com.csagroup.Actions.BasePage - enter data action is started
+12:04:01.196 [main] INFO  com.csagroup.Actions.BasePage - enter data action is clear
+12:04:01.428 [main] INFO  com.csagroup.Actions.BasePage - enter data action is Completed
+12:04:01.429 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Job Title
+12:04:01.429 [main] INFO  com.csagroup.Actions.BasePage - enter data action is started
+12:04:05.946 [main] INFO  com.csagroup.Actions.BasePage - enter data action is clear
+12:04:06.301 [main] INFO  com.csagroup.Actions.BasePage - enter data action is Completed
+12:04:06.301 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Email address
+12:04:06.302 [main] INFO  com.csagroup.Actions.BasePage - enter data action is started
+12:04:10.850 [main] INFO  com.csagroup.Actions.BasePage - enter data action is clear
+12:04:11.063 [main] INFO  com.csagroup.Actions.BasePage - enter data action is Completed
+12:04:11.063 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Password
+12:04:11.063 [main] INFO  com.csagroup.Actions.BasePage - enter data action is started
+12:04:15.648 [main] INFO  com.csagroup.Actions.BasePage - enter data action is clear
+12:04:15.823 [main] INFO  com.csagroup.Actions.BasePage - enter data action is Completed
+12:04:15.824 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the ConfirmPassword
+12:04:18.843 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Scroll the Page
+12:04:18.843 [main] INFO  com.csagroup.Actions.BasePage - enter data action is started
+12:04:23.413 [main] INFO  com.csagroup.Actions.BasePage - enter data action is clear
+12:04:23.756 [main] INFO  com.csagroup.Actions.BasePage - enter data action is Completed
+12:04:23.757 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Address
+12:04:23.757 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+12:04:28.852 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+12:04:29.103 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Country
+12:04:33.605 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+12:04:38.294 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+12:04:38.460 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the State
+12:04:38.461 [main] INFO  com.csagroup.Actions.BasePage - enter data action is started
+12:04:43.001 [main] INFO  com.csagroup.Actions.BasePage - enter data action is clear
+12:04:43.257 [main] INFO  com.csagroup.Actions.BasePage - enter data action is Completed
+12:04:43.257 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the City
+12:04:43.257 [main] INFO  com.csagroup.Actions.BasePage - enter data action is started
+12:04:47.812 [main] INFO  com.csagroup.Actions.BasePage - enter data action is clear
+12:04:47.982 [main] INFO  com.csagroup.Actions.BasePage - enter data action is Completed
+12:04:47.982 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Postal Code
+12:04:47.991 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Scroll the Page
+12:04:47.991 [main] INFO  com.csagroup.Actions.BasePage - enter data action is started
+12:04:52.551 [main] INFO  com.csagroup.Actions.BasePage - enter data action is clear
+12:04:52.876 [main] INFO  com.csagroup.Actions.BasePage - enter data action is Completed
+12:04:52.876 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Shipping Address
+12:04:52.876 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+12:04:57.564 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+12:04:57.813 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Shipping Country
+12:05:02.294 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+12:05:07.029 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+12:05:07.195 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Shipping State
+12:05:07.195 [main] INFO  com.csagroup.Actions.BasePage - enter data action is started
+12:05:11.745 [main] INFO  com.csagroup.Actions.BasePage - enter data action is clear
+12:05:11.965 [main] INFO  com.csagroup.Actions.BasePage - enter data action is Completed
+12:05:11.966 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Shipping City
+12:05:11.966 [main] INFO  com.csagroup.Actions.BasePage - enter data action is started
+12:05:16.505 [main] INFO  com.csagroup.Actions.BasePage - enter data action is clear
+12:05:16.687 [main] INFO  com.csagroup.Actions.BasePage - enter data action is Completed
+12:05:16.688 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Shipping PostalCode
+12:05:16.697 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Scroll the Page
+12:05:16.698 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+12:05:21.329 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+12:05:21.329 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the Terms&Conditions checkbox
+12:05:21.329 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+12:05:25.984 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+12:05:25.985 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the PrivacyPolicy checkbox
+12:05:29.004 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+12:05:33.636 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+12:05:33.636 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the Submition the Register Form
+12:05:42.477 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Close the Browser
+17:51:35.027 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Launching Browser and enter the URL
+17:51:36.233 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Search Products Page Loading
+17:51:36.233 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+17:51:41.734 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+17:51:41.734 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+17:51:47.258 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+17:51:47.313 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+17:52:23.958 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+17:55:46.620 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Launching Browser and enter the URL
+17:58:29.778 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Launching Browser and enter the URL
+17:58:31.018 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Search Products Page Loading
+17:58:31.018 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+17:58:36.624 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+17:58:36.624 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+17:58:42.058 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+17:58:42.121 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+17:58:46.792 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+17:58:46.816 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+17:58:46.816 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Select the Product from Search
+17:58:48.096 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Products Page Loading
+18:11:57.900 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Launching Browser and enter the URL
+18:11:59.065 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Search Products Page Loading
+18:11:59.066 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+18:12:04.363 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+18:12:04.363 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+18:12:09.537 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+18:12:09.583 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+18:12:15.599 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+18:12:15.620 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+18:12:15.621 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Select the Product from Search
+18:12:16.662 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Products Page Loading
+18:12:28.889 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+18:12:35.165 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+18:12:36.187 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+18:12:49.660 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+18:12:49.660 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+18:12:58.462 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+18:12:58.462 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+18:13:03.045 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+19:27:49.138 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Launching Browser and enter the URL
+19:27:50.392 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Search Products Page Loading
+19:27:50.393 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+19:27:56.391 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+19:27:56.392 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+19:28:01.606 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+19:28:01.669 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+19:28:09.389 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+19:28:09.410 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+19:28:09.411 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Select the Product from Search
+19:28:10.422 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Products Page Loading
+19:28:24.717 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+19:28:31.385 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+19:28:32.404 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+19:28:45.879 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+19:28:45.879 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+19:28:54.591 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+19:28:54.591 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+19:28:59.178 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+19:29:22.778 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+19:29:23.107 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+19:29:27.885 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+19:29:32.562 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+19:29:32.563 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+19:29:45.101 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+19:29:45.101 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+19:29:45.102 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+19:29:54.479 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+19:29:54.480 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+19:30:08.609 [main] INFO  com.csagroup.Actions.BasePage - click action is Completed
+19:30:17.009 [main] INFO  com.csagroup.Actions.BasePage - click action is started
+19:46:20.304 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+19:46:20.386 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+19:46:25.735 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+19:46:30.612 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+19:46:44.020 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+19:47:27.191 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+19:47:27.473 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+19:47:37.237 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+19:47:42.995 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+19:47:48.256 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+19:54:53.468 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Launching Browser and enter the URL
+19:54:54.637 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Search Products Page Loading
+19:54:59.980 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+19:55:05.458 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+19:55:05.524 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+19:55:11.879 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+19:55:11.927 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+19:55:11.927 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Select the Product from Search
+19:55:13.211 [main] INFO  com.csagroup.addToCart.ProductAddToCart - Products Page Loading
+19:56:23.712 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+19:56:24.421 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+19:56:29.483 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+19:56:35.063 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+19:56:48.408 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+19:59:55.353 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Launching Browser and enter the URL
+19:59:59.152 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+20:00:04.571 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+20:00:09.831 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+20:00:09.903 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+20:00:16.137 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+20:00:16.200 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+20:00:16.200 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Select the Product from Search
+20:00:17.262 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products Page Loading
+20:00:22.508 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products list is displayed
+20:00:23.525 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+20:00:28.180 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+20:00:32.900 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+20:00:32.956 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+20:00:38.285 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+20:00:38.326 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+20:00:38.326 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Select the Product from Search
+20:00:39.665 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products Page Loading
+20:00:46.749 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products list is displayed
+20:06:00.709 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Launching Browser and enter the URL
+20:06:03.056 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+20:06:08.523 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+20:06:13.838 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+20:06:13.894 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+20:06:23.339 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+20:06:23.468 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+20:06:23.468 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Select the Product from Search
+20:06:24.479 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products Page Loading
+20:06:29.249 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products list is displayed
+20:06:30.266 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+20:06:34.857 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+20:06:39.688 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+20:06:39.737 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+20:06:45.988 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+20:06:46.019 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+20:06:46.020 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Select the Product from Search
+20:06:47.351 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products Page Loading
+20:06:55.042 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products list is displayed
+20:06:56.054 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+20:07:00.718 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+20:07:05.565 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+20:07:05.609 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+20:07:11.191 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+20:07:11.255 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+20:07:11.255 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Select the Product from Search
+20:07:12.556 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products Page Loading
+20:07:19.472 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products list is displayed
+12:24:01.020 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+12:24:01.563 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+12:24:15.635 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+12:24:22.268 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+12:24:42.688 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+13:25:54.489 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+13:25:54.911 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+13:26:07.414 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+13:26:14.117 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+13:26:28.876 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+13:29:29.926 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+13:29:30.325 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+13:29:42.446 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+13:29:48.983 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+13:30:02.799 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+13:31:47.972 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+13:31:48.387 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+13:32:05.404 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+13:32:12.140 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+13:32:26.537 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+13:34:34.966 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+13:34:35.447 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+13:34:47.385 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+13:34:54.033 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+13:35:07.876 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+13:40:52.500 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+13:40:52.954 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+13:41:05.349 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+13:41:12.047 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+13:41:26.183 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+13:44:24.888 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+13:44:25.298 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+13:44:37.232 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+13:44:44.120 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+13:44:52.297 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+13:47:21.835 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+13:47:22.298 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+13:47:35.429 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+13:47:42.075 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+13:47:50.587 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+13:52:02.116 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+13:52:02.530 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+13:52:14.263 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+13:52:20.937 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+13:52:34.929 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+13:56:46.151 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+13:56:46.560 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+13:56:57.905 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+13:57:04.507 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+13:57:12.922 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+14:00:20.764 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+14:00:21.192 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+14:00:33.981 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+14:00:40.721 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+14:00:55.486 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+14:04:06.393 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+14:04:06.807 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+14:04:18.934 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+14:04:25.497 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+14:04:39.399 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+15:13:20.228 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+15:13:20.883 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+15:13:36.343 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+15:13:43.757 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+15:14:00.758 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+15:24:09.293 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+15:24:09.689 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+15:24:21.663 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+15:24:28.383 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+15:24:42.987 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+15:31:07.118 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+15:31:07.538 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+15:31:20.425 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+15:31:27.043 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+15:31:35.505 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+12:42:07.910 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+12:42:08.219 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+12:42:13.724 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+12:42:18.392 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+12:42:35.429 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+12:45:46.489 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+12:45:46.633 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+12:45:51.879 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+12:45:56.597 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+12:46:13.714 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+12:49:07.416 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+12:49:07.700 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+12:49:13.203 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+12:49:17.969 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+12:49:34.918 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+12:49:52.909 [main] INFO  com.csagroup.Actions.BasePage - Click on the Search Textbox
+12:49:57.620 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: //input[@placeholder='Search Products']
+12:49:57.830 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: //input[@placeholder='Search Products']
+12:49:57.937 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: //input[@placeholder='Search Products']
+12:49:57.961 [main] INFO  com.csagroup.Actions.BasePage - Enter and select Product from Search
+13:10:03.681 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+13:10:05.204 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+13:10:11.514 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+13:10:16.245 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+13:10:32.986 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+13:10:51.183 [main] INFO  com.csagroup.Actions.BasePage - Click on the Search Textbox
+13:10:55.857 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: //input[@placeholder='Search Products']
+13:10:55.988 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: //input[@placeholder='Search Products']
+13:10:56.086 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: //input[@placeholder='Search Products']
+13:10:56.106 [main] INFO  com.csagroup.Actions.BasePage - Enter and select Product from Search
+13:14:08.126 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+13:14:08.175 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+13:14:13.158 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+13:14:17.905 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+13:14:33.851 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+13:14:53.427 [main] INFO  com.csagroup.Actions.BasePage - Click on the Search Textbox
+13:14:58.081 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: //input[@placeholder='Search Products']
+13:14:58.157 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: //input[@placeholder='Search Products']
+13:14:58.250 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: //input[@placeholder='Search Products']
+13:14:58.272 [main] INFO  com.csagroup.Actions.BasePage - Enter and select Product from Search
+13:21:34.274 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+13:21:34.339 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+13:21:39.262 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+13:21:44.080 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+13:22:00.993 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+13:22:22.280 [main] INFO  com.csagroup.Actions.BasePage - Click on the Search Textbox
+13:22:27.038 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: //input[@placeholder='Search Products']
+13:22:27.209 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: //input[@placeholder='Search Products']
+13:22:27.418 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: //input[@placeholder='Search Products']
+13:22:27.439 [main] INFO  com.csagroup.Actions.BasePage - Enter and select Product from Search
+13:22:41.242 [main] INFO  com.csagroup.Actions.BasePage - Click on the Search Textbox
+13:22:46.007 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: //input[@placeholder='Search Products']
+13:22:46.097 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: //input[@placeholder='Search Products']
+13:22:46.639 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: //input[@placeholder='Search Products']
+13:22:46.676 [main] INFO  com.csagroup.Actions.BasePage - Enter and select Product from Search
+13:26:15.236 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+13:26:15.498 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+13:26:21.917 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+13:26:30.276 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+13:26:46.230 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+13:27:11.137 [main] INFO  com.csagroup.Actions.BasePage - Click on the Search Textbox
+13:27:15.915 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: //input[@placeholder='Search Products']
+13:27:16.053 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: //input[@placeholder='Search Products']
+13:27:16.171 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: //input[@placeholder='Search Products']
+13:27:16.197 [main] INFO  com.csagroup.Actions.BasePage - Enter and select Product from Search
+13:27:34.627 [main] INFO  com.csagroup.Actions.BasePage - Click on the Search Textbox
+13:27:39.389 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: //input[@placeholder='Search Products']
+13:27:39.461 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: //input[@placeholder='Search Products']
+13:27:39.974 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: //input[@placeholder='Search Products']
+13:27:40.007 [main] INFO  com.csagroup.Actions.BasePage - Enter and select Product from Search
+13:28:49.431 [main] INFO  com.csagroup.Actions.BasePage - Click on the Search Textbox
+13:28:54.102 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: //input[@placeholder='Search Products']
+13:28:54.174 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: //input[@placeholder='Search Products']
+13:28:54.387 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: //input[@placeholder='Search Products']
+13:28:54.403 [main] INFO  com.csagroup.Actions.BasePage - Enter and select Product from Search
+13:35:09.338 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+13:35:09.411 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+13:35:14.427 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+13:35:19.132 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+13:35:33.841 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+13:35:59.238 [main] INFO  com.csagroup.Actions.BasePage - Click on the Search Textbox
+13:36:03.905 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: //input[@placeholder='Search Products']
+13:36:04.148 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: //input[@placeholder='Search Products']
+13:36:04.274 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: //input[@placeholder='Search Products']
+13:36:04.304 [main] INFO  com.csagroup.Actions.BasePage - Enter and select Product from Search
+13:36:23.338 [main] INFO  com.csagroup.Actions.BasePage - Click on the Search Textbox
+13:36:28.310 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: //input[@placeholder='Search Products']
+13:36:28.391 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: //input[@placeholder='Search Products']
+13:36:28.865 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: //input[@placeholder='Search Products']
+13:36:28.934 [main] INFO  com.csagroup.Actions.BasePage - Enter and select Product from Search
+20:36:27.054 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+20:36:27.166 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+20:36:32.497 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+20:36:37.557 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+20:36:51.957 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+20:37:20.153 [main] INFO  com.csagroup.Actions.BasePage - Click on the Search Textbox
+20:37:24.943 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: //input[@placeholder='Search Products']
+20:37:25.052 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: //input[@placeholder='Search Products']
+20:37:25.187 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: //input[@placeholder='Search Products']
+20:37:25.215 [main] INFO  com.csagroup.Actions.BasePage - Enter and select Product from Search
+20:37:44.984 [main] INFO  com.csagroup.Actions.BasePage - Click on the Search Textbox
+20:37:49.701 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: //input[@placeholder='Search Products']
+20:37:49.800 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: //input[@placeholder='Search Products']
+20:37:50.442 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: //input[@placeholder='Search Products']
+20:37:50.495 [main] INFO  com.csagroup.Actions.BasePage - Enter and select Product from Search
+20:39:48.617 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+20:39:48.827 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+20:39:54.294 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+20:39:59.194 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+20:40:12.237 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+20:43:08.398 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+20:43:08.488 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+20:43:13.791 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+20:43:18.730 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+20:43:56.875 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+20:45:11.101 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+20:45:11.193 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+20:45:16.869 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+20:45:21.712 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+20:45:35.071 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+20:47:43.248 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+20:47:43.316 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+20:47:48.658 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+20:47:53.533 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+20:48:07.155 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+20:50:06.953 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+20:50:07.024 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+20:50:12.618 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+20:50:17.398 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+20:50:31.276 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+20:59:16.484 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Launching Browser and enter the URL
+20:59:19.069 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+20:59:24.535 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+20:59:30.001 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+20:59:30.056 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+20:59:36.648 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+20:59:36.727 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+20:59:36.727 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Select the Product from Search
+20:59:37.786 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products Page Loading
+21:00:02.854 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products list is displayed
+21:00:03.890 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+21:00:11.010 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+21:00:15.720 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+21:00:20.623 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+21:00:20.694 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+21:00:29.697 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+21:00:30.487 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+21:00:30.487 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Select the Product from Search
+21:00:31.501 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products Page Loading
+21:00:37.652 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products list is displayed
+21:02:34.066 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Launching Browser and enter the URL
+21:02:36.550 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+21:02:42.163 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+21:02:47.589 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+21:02:47.657 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+21:02:57.789 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+21:02:57.830 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+21:02:57.830 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Select the Product from Search
+21:02:58.846 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products Page Loading
+21:03:03.645 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products list is displayed
+21:03:04.663 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+21:03:09.344 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+21:03:14.250 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+21:03:14.307 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+21:03:20.124 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+21:03:20.165 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+21:03:20.165 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Select the Product from Search
+21:03:21.179 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products Page Loading
+21:03:29.232 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products list is displayed
+21:03:30.250 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+21:03:34.944 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+21:03:39.757 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+21:03:39.811 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+21:03:45.178 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+21:03:45.226 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+21:03:45.226 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Select the Product from Search
+21:03:46.328 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products Page Loading
+21:03:54.857 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products list is displayed
+21:11:49.234 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+21:11:49.847 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+21:12:04.618 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+21:12:12.503 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+21:12:19.405 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+21:16:59.892 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+21:17:00.490 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+21:17:14.072 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+21:17:21.604 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+21:17:37.024 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+21:27:54.257 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+21:27:54.887 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+21:28:09.480 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+21:28:17.257 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+21:28:33.377 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+21:31:47.291 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Launching Browser and enter the URL
+21:31:49.727 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+21:32:00.878 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+21:32:08.089 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+21:32:09.251 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+21:32:10.329 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+21:32:10.677 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+21:32:10.677 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Select the Product from Search
+21:32:31.988 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products Page Loading
+21:34:23.189 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products list is displayed
+21:34:23.196 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+21:34:30.374 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+21:34:36.856 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+21:34:38.089 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+21:34:39.230 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+21:34:39.473 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+21:34:39.473 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Select the Product from Search
+21:35:00.749 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products Page Loading
+21:36:24.339 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products list is displayed
+21:36:24.343 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+21:36:31.779 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+21:36:38.553 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+21:36:39.746 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+21:36:40.939 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+21:36:41.284 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+21:36:41.284 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Select the Product from Search
+21:37:02.594 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products Page Loading
+21:38:34.982 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products list is displayed
+21:39:42.918 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+21:39:43.002 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+21:39:48.293 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+21:39:53.203 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+21:40:09.614 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+21:43:51.969 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+21:43:52.040 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+21:43:57.355 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+21:44:02.241 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+21:44:15.763 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+21:44:41.031 [main] INFO  com.csagroup.Actions.BasePage - Click on the Search Textbox
+21:44:45.927 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: //input[@placeholder='Search Products']
+21:44:46.024 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: //input[@placeholder='Search Products']
+21:44:46.206 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: //input[@placeholder='Search Products']
+21:44:46.303 [main] INFO  com.csagroup.Actions.BasePage - Enter and select Product from Search
+21:45:05.523 [main] INFO  com.csagroup.Actions.BasePage - Click on the Search Textbox
+21:45:10.382 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: //input[@placeholder='Search Products']
+21:45:10.498 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: //input[@placeholder='Search Products']
+21:45:11.144 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: //input[@placeholder='Search Products']
+21:45:11.189 [main] INFO  com.csagroup.Actions.BasePage - Enter and select Product from Search
+11:03:35.948 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+11:03:35.970 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+11:03:40.501 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+11:03:44.941 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+11:03:50.505 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+11:08:24.090 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+11:08:24.121 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+11:08:29.514 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+11:08:34.189 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+11:08:39.900 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+11:14:47.944 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+11:14:47.983 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+11:14:52.672 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+11:14:57.191 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+11:15:03.058 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+11:18:18.012 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+11:18:18.049 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+11:18:22.720 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+11:18:27.202 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+11:18:32.901 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+11:23:30.025 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+11:23:30.062 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+11:23:34.722 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+11:23:39.221 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+11:23:44.803 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+11:26:03.968 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+11:26:03.998 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+11:26:08.562 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+11:26:13.035 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+11:26:18.643 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+11:28:42.158 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+11:28:42.192 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+11:28:46.769 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+11:28:51.264 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+11:28:56.943 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+11:30:17.622 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+11:30:17.650 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+11:30:22.207 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+11:30:26.686 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+11:30:32.244 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+11:32:35.440 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+11:32:35.522 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+11:32:40.084 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+11:32:44.580 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+11:32:50.184 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+11:39:43.285 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+11:39:43.437 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+11:39:48.033 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+11:39:52.529 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+11:39:58.176 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+12:08:01.157 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+12:08:01.223 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+12:08:05.988 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+12:08:10.588 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+12:08:21.793 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+12:10:00.518 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+12:10:00.595 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+12:10:05.396 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+12:10:09.963 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+12:10:15.921 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+12:43:06.582 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+12:43:06.610 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+12:43:11.263 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+12:43:15.791 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+12:43:21.538 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+12:45:54.425 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+12:45:54.593 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+12:45:59.273 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+12:46:03.856 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+12:46:09.639 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+18:22:21.496 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+18:22:21.528 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+18:22:26.081 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+18:22:30.527 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+18:22:36.850 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+18:24:23.157 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+18:24:23.177 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+18:24:27.741 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+18:24:32.217 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+18:24:37.991 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+18:29:35.166 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+18:29:35.199 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+18:29:39.735 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+18:29:44.229 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+18:29:49.789 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+18:34:10.225 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+18:34:10.259 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+18:34:14.913 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+18:34:19.375 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+18:34:25.005 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+18:35:58.768 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+18:35:58.799 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+18:36:03.418 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+18:36:07.903 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+18:36:13.929 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+18:37:37.703 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+18:37:37.741 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+18:37:42.396 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+18:37:46.865 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+18:37:52.857 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+18:48:27.310 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+18:48:27.330 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+18:48:31.941 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+18:48:36.393 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+18:48:42.009 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+18:53:17.252 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+18:53:17.274 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+18:53:21.783 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+18:53:26.231 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+18:53:31.769 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+18:54:37.545 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+18:54:37.573 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+18:54:42.171 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+18:54:46.621 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+18:54:52.133 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+18:58:51.722 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+18:58:51.741 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+18:58:56.319 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+18:59:00.772 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+18:59:06.636 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+19:01:30.592 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+19:01:30.612 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+19:01:35.203 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+19:01:39.653 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+19:01:45.187 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+19:05:54.023 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+19:05:54.109 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+19:05:58.619 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+19:06:03.104 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+19:06:08.831 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+19:09:56.435 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+19:09:56.457 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+19:10:01.027 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+19:10:05.471 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+19:10:11.204 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+19:14:50.807 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+19:14:50.919 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+19:14:55.743 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+19:15:00.353 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+19:15:06.138 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+19:17:53.753 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+19:17:53.784 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+19:17:58.466 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+19:18:03.081 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+19:18:08.822 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+19:20:36.922 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+19:20:36.975 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+19:20:41.819 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+19:20:46.387 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+19:20:53.832 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+19:22:27.315 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+19:22:27.418 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+19:22:32.109 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+19:22:36.776 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+19:22:42.542 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+19:25:11.006 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+19:25:11.038 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+19:25:15.744 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+19:25:20.303 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+19:25:26.083 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+19:32:43.721 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+19:32:43.760 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+19:32:48.481 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+19:32:53.059 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+19:32:58.855 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+19:37:29.642 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+19:37:29.778 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+19:37:34.533 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+19:37:39.135 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+19:37:45.094 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+19:49:18.359 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+19:49:18.394 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+19:49:23.251 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+19:49:27.858 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+19:49:33.637 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+19:56:21.993 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+19:56:22.110 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+19:56:26.795 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+19:56:31.349 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+19:56:36.960 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+20:01:33.279 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+20:01:33.383 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+20:01:38.064 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+20:01:42.647 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+20:01:48.669 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+20:03:32.673 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+20:03:32.786 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+20:03:37.451 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+20:03:41.999 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+20:03:47.738 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+20:10:50.393 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+20:10:50.519 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+20:10:55.194 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+20:10:59.756 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+20:11:05.468 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+20:32:54.570 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+20:32:54.606 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+20:32:59.351 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+20:33:03.882 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+20:33:09.661 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+20:35:18.859 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+20:35:18.960 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+20:35:23.648 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+20:35:28.217 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+20:35:33.719 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+20:43:08.343 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+20:43:08.377 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+20:43:13.104 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+20:43:17.680 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+20:43:23.408 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+20:45:50.601 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+20:45:50.705 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+20:45:55.407 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+20:45:59.974 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+20:46:05.668 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+20:49:41.049 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+20:49:41.086 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+20:49:45.772 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+20:49:50.313 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+20:49:56.035 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+21:22:29.037 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+21:22:29.096 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+21:22:33.875 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+21:22:38.443 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+21:22:44.133 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+21:29:19.429 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+21:29:19.466 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+21:29:24.175 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+21:29:28.821 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+21:29:34.505 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+21:40:47.895 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+21:40:47.987 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+21:40:52.674 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+21:40:57.242 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+21:41:03.274 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+21:47:34.002 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+21:47:34.036 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+21:47:38.819 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+21:47:43.385 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+21:47:49.054 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+22:12:39.177 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+22:12:39.206 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+22:12:43.937 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+22:12:48.497 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+22:12:54.148 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+22:15:21.545 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+22:15:21.579 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+22:15:26.346 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+22:15:30.944 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+22:15:36.605 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+22:18:57.902 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+22:18:57.932 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+22:19:02.641 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+22:19:07.262 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+22:19:12.948 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+14:30:32.855 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+14:30:32.875 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+14:30:37.392 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+14:30:41.887 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+14:30:47.626 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+14:33:44.512 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+14:33:44.537 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+14:33:49.053 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+14:33:53.497 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+14:33:59.146 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+00:12:30.663 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+00:12:30.724 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+00:12:35.345 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+00:12:39.838 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+00:12:53.045 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+19:31:52.326 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+19:31:52.461 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+19:31:58.038 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+19:32:03.001 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+19:32:20.791 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+19:33:08.026 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+19:33:08.285 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+19:33:18.753 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+19:33:24.779 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+19:33:30.340 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+21:52:51.437 [main] INFO  com.csagroup.Actions.BasePage - Trying to find element : Training
+21:53:02.394 [main] INFO  com.csagroup.Actions.BasePage - C:\Users\rames\OneDrive\SeleniumProjects\CSAGroup03012020\CSAGroup/target/screenshots/2020-01-29/null/null_2020-01-29_21-48-06_screenshot3525737667869985613.png
+21:55:18.013 [main] INFO  com.csagroup.Actions.BasePage - Trying to find element : Supplementary Products
+21:55:28.708 [main] INFO  com.csagroup.Actions.BasePage - C:\Users\rames\OneDrive\SeleniumProjects\CSAGroup03012020\CSAGroup/target/screenshots/2020-01-29/null/null_2020-01-29_21-48-06_screenshot8779847679431692540.png
+21:59:14.071 [main] INFO  com.csagroup.Actions.BasePage - Trying to find element : 
+21:59:24.222 [main] INFO  com.csagroup.Actions.BasePage - C:\Users\rames\OneDrive\SeleniumProjects\CSAGroup03012020\CSAGroup/target/screenshots/2020-01-29/null/null_2020-01-29_21-48-06_screenshot5347010618811096831.png
+21:59:42.888 [main] INFO  com.csagroup.Actions.BasePage - Trying to find element : 
+21:59:53.043 [main] INFO  com.csagroup.Actions.BasePage - C:\Users\rames\OneDrive\SeleniumProjects\CSAGroup03012020\CSAGroup/target/screenshots/2020-01-29/null/null_2020-01-29_21-48-06_screenshot8795974572572084693.png
+21:59:58.246 [main] INFO  com.csagroup.Actions.BasePage - Trying to find element : 
+22:00:08.369 [main] INFO  com.csagroup.Actions.BasePage - C:\Users\rames\OneDrive\SeleniumProjects\CSAGroup03012020\CSAGroup/target/screenshots/2020-01-29/null/null_2020-01-29_21-48-06_screenshot4314355307519926113.png
+22:00:13.634 [main] INFO  com.csagroup.Actions.BasePage - Trying to find element : Subscribe
+22:00:23.842 [main] INFO  com.csagroup.Actions.BasePage - C:\Users\rames\OneDrive\SeleniumProjects\CSAGroup03012020\CSAGroup/target/screenshots/2020-01-29/null/null_2020-01-29_21-48-06_screenshot366926323363704175.png
+22:01:48.779 [main] INFO  com.csagroup.Actions.BasePage - Trying to find element : 
+22:01:58.905 [main] INFO  com.csagroup.Actions.BasePage - C:\Users\rames\OneDrive\SeleniumProjects\CSAGroup03012020\CSAGroup/target/screenshots/2020-01-29/null/null_2020-01-29_21-48-06_screenshot1692295779287867317.png
+22:02:05.688 [main] INFO  com.csagroup.Actions.BasePage - Trying to find element : 
+23:00:49.242 [main] INFO  com.csagroup.Actions.BasePage - Trying to find element : Login / Register
+23:01:07.244 [main] INFO  com.csagroup.Actions.BasePage - C:\Users\rames\OneDrive\SeleniumProjects\CSAGroup03012020\CSAGroup/target/screenshots/2020-01-29/Login/Login_2020-01-29_23-00-52_screenshot7362029913857787399.png
+23:01:14.977 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+23:01:15.034 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+23:01:19.996 [main] INFO  com.csagroup.Actions.BasePage - Entering csaqatest+dec151@gmail.com value to : emailField
+23:01:26.996 [main] INFO  com.csagroup.Actions.BasePage - C:\Users\rames\OneDrive\SeleniumProjects\CSAGroup03012020\CSAGroup/target/screenshots/2020-01-29/Login/Login_2020-01-29_23-00-52_screenshot7181663552004745965.png
+23:01:28.047 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+23:01:32.867 [main] INFO  com.csagroup.Actions.BasePage - Entering abcd1234 value to : passwordField
+23:01:39.562 [main] INFO  com.csagroup.Actions.BasePage - C:\Users\rames\OneDrive\SeleniumProjects\CSAGroup03012020\CSAGroup/target/screenshots/2020-01-29/Login/Login_2020-01-29_23-00-52_screenshot2786020553411427614.png
+23:01:40.591 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+23:01:40.682 [main] INFO  com.csagroup.Actions.BasePage - Trying to find element : 
+23:01:51.477 [main] INFO  com.csagroup.Actions.BasePage - C:\Users\rames\OneDrive\SeleniumProjects\CSAGroup03012020\CSAGroup/target/screenshots/2020-01-29/Login/Login_2020-01-29_23-00-52_screenshot5947450105980423775.png
+23:02:11.664 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+23:02:55.622 [main] INFO  com.csagroup.Actions.BasePage - Trying to find element : Logout
+23:03:10.239 [main] INFO  com.csagroup.Actions.BasePage - C:\Users\rames\OneDrive\SeleniumProjects\CSAGroup03012020\CSAGroup/target/screenshots/2020-01-29/Login/Login_2020-01-29_23-00-52_screenshot7222347905763951397.png
+22:21:38.245 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Launching Browser and enter the URL
+22:21:39.619 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+22:21:39.681 [main] INFO  com.csagroup.Actions.BasePage - Trying to find element : 
+22:21:50.496 [main] INFO  com.csagroup.Actions.BasePage - C:\Users\rames\OneDrive\SeleniumProjects\CSAGroup03012020\CSAGroup/target/screenshots/2020-01-30/SearchProduct/Products_2020-01-30_22-21-42_screenshot1551575082599792042.png
+22:21:51.659 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+22:21:56.768 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+22:21:56.818 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+22:22:05.938 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+22:22:05.951 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+22:22:05.951 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Select the Product from Search
+22:22:06.964 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products Page Loading
+22:22:09.941 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products list is displayed
+22:22:09.944 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+22:22:09.965 [main] INFO  com.csagroup.Actions.BasePage - Trying to find element : 
+22:22:20.101 [main] INFO  com.csagroup.Actions.BasePage - C:\Users\rames\OneDrive\SeleniumProjects\CSAGroup03012020\CSAGroup/target/screenshots/2020-01-30/SearchProduct/Products_2020-01-30_22-21-42_screenshot4819576368438910455.png
+22:22:21.184 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+22:22:25.716 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+22:22:25.740 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+22:22:30.633 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+22:22:30.662 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+22:22:30.662 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Select the Product from Search
+22:22:31.677 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products Page Loading
+22:22:59.996 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products list is displayed
+22:22:59.998 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+22:23:00.023 [main] INFO  com.csagroup.Actions.BasePage - Trying to find element : 
+22:23:10.187 [main] INFO  com.csagroup.Actions.BasePage - C:\Users\rames\OneDrive\SeleniumProjects\CSAGroup03012020\CSAGroup/target/screenshots/2020-01-30/SearchProduct/Products_2020-01-30_22-21-42_screenshot2912735218130805060.png
+22:23:11.317 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+22:23:15.832 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+22:23:15.855 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+22:23:26.188 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+22:23:26.197 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+22:23:26.197 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Select the Product from Search
+22:23:27.211 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products Page Loading
+22:23:37.313 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products list is displayed
+22:23:38.058 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Driver close
+22:24:51.625 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Launching Browser and enter the URL
+22:24:52.251 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+22:24:52.280 [main] INFO  com.csagroup.Actions.BasePage - Trying to find element : 
+22:25:03.845 [main] INFO  com.csagroup.Actions.BasePage - C:\Users\rames\OneDrive\SeleniumProjects\CSAGroup03012020\CSAGroup/target/screenshots/2020-01-30/SearchProduct/Products_2020-01-30_22-24-55_screenshot6946218920287487313.png
+22:25:04.923 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+22:25:10.052 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+22:25:10.077 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+22:25:15.523 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+22:25:15.540 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+22:25:15.540 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Select the Product from Search
+22:25:16.556 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products Page Loading
+22:25:23.529 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products list is displayed
+22:25:23.536 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+22:25:23.576 [main] INFO  com.csagroup.Actions.BasePage - Trying to find element : 
+22:25:33.765 [main] INFO  com.csagroup.Actions.BasePage - C:\Users\rames\OneDrive\SeleniumProjects\CSAGroup03012020\CSAGroup/target/screenshots/2020-01-30/SearchProduct/Products_2020-01-30_22-24-55_screenshot5981977742427766314.png
+22:25:34.879 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+22:25:39.399 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+22:25:39.422 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+22:25:44.613 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+22:25:44.623 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+22:25:44.623 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Select the Product from Search
+22:25:45.637 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products Page Loading
+22:25:57.542 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products list is displayed
+22:25:57.544 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+22:25:57.571 [main] INFO  com.csagroup.Actions.BasePage - Trying to find element : 
+22:26:07.751 [main] INFO  com.csagroup.Actions.BasePage - C:\Users\rames\OneDrive\SeleniumProjects\CSAGroup03012020\CSAGroup/target/screenshots/2020-01-30/SearchProduct/Products_2020-01-30_22-24-55_screenshot5593377926888541638.png
+22:26:08.881 [main] INFO  com.csagroup.pageObjects.ProductSearch - Click on the Search Textbox
+22:26:13.450 [main] INFO  com.csagroup.Actions.BasePage - Enter the Data in Search textbox:By.xpath: (//input[@placeholder='Search Products'])[2]
+22:26:13.473 [main] INFO  com.csagroup.Actions.BasePage - Selecting Item to down:By.xpath: (//input[@placeholder='Search Products'])[2]
+22:26:24.582 [main] INFO  com.csagroup.Actions.BasePage - Select Item is Enter:By.xpath: (//input[@placeholder='Search Products'])[2]
+22:26:24.592 [main] INFO  com.csagroup.pageObjects.ProductSearch - Enter and select Product from Search
+22:26:24.592 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Select the Product from Search
+22:26:25.602 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products Page Loading
+22:26:35.378 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products list is displayed
+22:26:36.015 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Driver close
+19:02:37.422 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Browser Starting
+19:06:04.088 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Browser Starting
+19:06:26.595 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Launching Browser and enter the URL
+19:06:28.883 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Close the Browser
+19:14:24.269 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Browser Starting
+19:14:46.364 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Launching Browser and enter the URL
+19:14:47.151 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Close the Browser
+19:17:07.055 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Browser Starting
+19:17:22.843 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Launching Browser and enter the URL
+19:17:25.624 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Close the Browser
+20:14:34.512 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Browser Starting
+20:14:56.161 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Launching Browser and enter the URL
+20:14:56.968 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Close the Browser
+20:15:11.978 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Browser Starting
+20:15:35.012 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Launching Browser and enter the URL
+20:15:37.011 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Close the Browser
+20:16:48.664 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Launching Browser and enter the URL
+20:16:53.171 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Close the Browser
+20:22:16.377 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Launching Browser and enter the URL
+20:22:20.973 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Close the Browser
+20:24:56.798 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Launching Browser and enter the URL
+20:25:00.925 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Close the Browser
+20:44:47.777 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Browser Starting
+20:45:10.614 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Launching Browser and enter the URL
+20:45:12.811 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Close the Browser
+20:50:34.174 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Launching Browser and enter the URL
+20:51:25.394 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the Login
+20:51:54.503 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the Create Account
+20:52:34.777 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Title
+20:52:52.412 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the FirstName
+20:53:09.936 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the LastName
+20:53:27.540 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Phonenumber
+20:53:46.848 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Close the Browser
+21:02:22.415 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Launching Browser and enter the URL
+21:03:12.125 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the Login
+21:03:34.720 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the Create Account
+21:04:14.522 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Title
+21:04:32.216 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the FirstName
+21:04:49.774 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the LastName
+21:05:07.448 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Phonenumber
+21:05:42.202 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Language
+21:05:42.226 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Scroll the Page
+21:05:59.604 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Company CompanyName
+21:06:35.540 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Industry
+21:07:10.853 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Market
+21:07:46.180 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Jon Function
+21:08:04.063 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Job Title
+21:08:22.321 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Email address
+21:08:40.349 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Password
+21:08:58.145 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the ConfirmPassword
+21:09:01.166 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Scroll the Page
+21:09:18.799 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Address
+21:10:00.418 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Country
+21:10:40.042 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the State
+21:10:57.416 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the City
+21:11:14.906 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Postal Code
+21:11:14.930 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Scroll the Page
+21:11:32.583 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Shipping Address
+21:12:08.627 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Shipping Country
+21:12:48.644 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Shipping State
+21:13:06.670 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Shipping City
+21:13:24.009 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Shipping PostalCode
+21:13:24.029 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Scroll the Page
+21:13:41.043 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the Terms&Conditions checkbox
+21:13:58.312 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the PrivacyPolicy checkbox
+21:14:18.486 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the Submition the Register Form
+21:14:27.396 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Close the Browser
+21:15:00.513 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Launching Browser and enter the URL
+21:15:55.537 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the Login
+21:16:19.507 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the Create Account
+21:16:43.782 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Close the Browser
+21:17:24.384 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Launching Browser and enter the URL
+21:18:15.012 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the Login
+21:18:37.944 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the Create Account
+21:19:02.543 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Close the Browser
+21:19:35.276 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Launching Browser and enter the URL
+21:20:28.551 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the Login
+21:20:50.535 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the Create Account
+21:21:30.473 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Title
+21:21:48.349 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the FirstName
+21:22:05.921 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the LastName
+21:22:23.524 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Phonenumber
+21:22:42.949 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Close the Browser
+21:24:09.353 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Launching Browser and enter the URL
+21:24:57.693 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the Login
+21:25:23.532 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the Create Account
+21:26:03.453 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Title
+21:26:21.110 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the FirstName
+21:26:38.802 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the LastName
+21:26:56.448 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Phonenumber
+21:26:56.473 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Scroll the Page
+21:27:31.187 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Language
+21:27:48.551 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Company CompanyName
+21:28:23.361 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Industry
+21:28:59.467 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Market
+21:29:18.885 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Close the Browser
+23:57:01.761 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Browser Starting
+23:57:20.251 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Launching Browser and enter the URL
+23:57:22.610 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Close the Browser
+00:09:08.351 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Browser Starting
+00:09:28.402 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Launching Browser and enter the URL
+00:09:30.449 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Close the Browser
+00:24:36.770 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Browser Starting
+00:24:59.321 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Launching Browser and enter the URL
+00:25:00.166 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Close the Browser
+00:26:04.311 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Browser Starting
+00:26:24.964 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Launching Browser and enter the URL
+00:26:25.712 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Close the Browser
+00:27:31.292 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Browser Starting
+00:27:51.493 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Launching Browser and enter the URL
+00:27:56.261 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Close the Browser
+00:29:10.482 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Browser Starting
+00:29:25.864 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Launching Browser and enter the URL
+00:29:29.086 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Close the Browser
+00:30:48.908 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Browser Starting
+00:31:03.784 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Launching Browser and enter the URL
+00:31:06.743 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Close the Browser
+00:31:40.078 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Browser Starting
+00:31:55.660 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Launching Browser and enter the URL
+00:31:58.416 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Close the Browser
+19:40:30.582 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Browser Starting
+19:41:14.956 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Launching Browser and enter the URL
+19:41:20.337 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Close the Browser
+19:41:55.794 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Browser Starting
+19:42:18.076 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Launching Browser and enter the URL
+19:42:21.095 [main] INFO  com.csagroup.RegisterTestcases.RegisterTest - Close the Browser
+10:18:29.543 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Launching Browser and enter the URL
+10:18:34.545 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Close the Browser
+10:44:42.658 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Launching Browser and enter the URL
+10:44:48.005 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Close the Browser
+10:47:02.122 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Launching Browser and enter the URL
+10:47:38.356 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Close the Browser
+10:48:59.357 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Launching Browser and enter the URL
+10:49:34.655 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the Login
+10:49:59.571 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the Create Account
+10:50:38.890 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Title
+10:50:56.396 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the FirstName
+10:51:13.564 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the LastName
+10:51:30.864 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Phonenumber
+10:51:30.878 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Scroll the Page
+10:52:04.903 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Language
+10:52:22.015 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Company CompanyName
+10:52:56.309 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Industry
+10:53:30.767 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Market
+10:54:05.606 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Jon Function
+10:54:22.815 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Job Title
+10:54:40.108 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Email address
+10:54:57.245 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Password
+10:55:14.494 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the ConfirmPassword
+10:55:17.512 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Scroll the Page
+10:55:35.070 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Address
+10:56:11.271 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Country
+10:56:50.348 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the State
+10:57:07.520 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the City
+10:57:24.599 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Postal Code
+10:57:24.610 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Scroll the Page
+10:57:41.913 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Shipping Address
+10:58:16.969 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Shipping Country
+10:58:55.818 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Select the Shipping State
+10:59:13.410 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Shipping City
+10:59:30.725 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Enter the Shipping PostalCode
+10:59:30.742 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Scroll the Page
+10:59:47.736 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the Terms&Conditions checkbox
+11:00:04.781 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the PrivacyPolicy checkbox
+11:00:24.924 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Click on the Submition the Register Form
+11:00:33.924 [main] INFO  com.csagroup.RegisterTestcases.RegistrationTest - Close the Browser
+12:21:05.176 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Launching Browser and enter the URL
+12:21:08.705 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+12:21:45.127 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Select the Product from Search
+12:21:46.136 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products Page Loading
+12:22:10.519 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products list is displayed
+12:22:10.521 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+12:22:42.015 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Select the Product from Search
+12:22:43.021 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products Page Loading
+12:22:49.788 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products list is displayed
+12:22:50.006 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+12:23:20.883 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Select the Product from Search
+12:23:21.892 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products Page Loading
+12:23:23.640 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products list is displayed
+12:23:25.834 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Driver close
+21:41:08.013 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+21:41:08.068 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+21:41:24.539 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+21:41:40.825 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+21:42:03.844 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+21:43:20.504 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+21:43:20.729 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+20:10:05.351 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Launching Browser and enter the URL
+20:10:09.188 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+20:10:59.141 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Select the Product from Search
+20:11:00.149 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products Page Loading
+20:11:00.503 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products list is displayed
+20:11:00.510 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+20:11:35.771 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Select the Product from Search
+20:11:36.800 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products Page Loading
+20:11:38.562 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products list is displayed
+20:11:38.568 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Search Products Page Loading
+20:12:12.800 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Select the Product from Search
+20:12:13.815 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products Page Loading
+20:12:18.094 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Products list is displayed
+20:12:19.017 [main] INFO  com.csagroup.SearchTestcases.SearchProductTerms - Driver close
+20:16:30.956 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+20:16:31.019 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+20:16:48.485 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+20:17:05.659 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+20:17:30.772 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+10:36:01.885 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+10:36:01.993 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+10:36:19.255 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+10:36:35.579 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+10:36:59.166 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+13:08:08.637 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+13:08:09.216 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+13:08:27.057 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+13:08:43.602 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+13:09:08.262 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
+10:22:25.417 [main] INFO  com.csagroup.pageObjects.LoginPage - click on Login button
+10:22:25.628 [main] INFO  com.csagroup.pageObjects.LoginPage - Scroll the Page
+10:22:48.850 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the username:
+10:23:30.960 [main] INFO  com.csagroup.pageObjects.LoginPage - Enter the password:
+10:23:53.824 [main] INFO  com.csagroup.pageObjects.LoginPage - click Login button action is Completed
